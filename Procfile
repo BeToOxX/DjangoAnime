@@ -1,0 +1,1 @@
+web: gunicorn DevAnime.wsgi --log-file -
