@@ -1,0 +1,2 @@
+# DjangoAnime
+Anime's Store
